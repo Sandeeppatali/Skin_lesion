@@ -33,7 +33,7 @@ os.makedirs(HEATMAP_FOLDER, exist_ok=True)
 # Groq API Key
 # ============================================================
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = " "
 
 # ============================================================
 # Load Model
